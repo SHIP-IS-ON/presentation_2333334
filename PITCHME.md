@@ -1,7 +1,7 @@
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
 
-#  @color[black](PLEN 💛)
+#  @color[blue](PLEN 💛)
 
 
 
@@ -23,9 +23,9 @@
 @snap[west span-55]
 ##  @color[black](メンバー紹介)
 @ul[list-spaced-bullets text-20]
-- 💛 PLEN .. SHOUJI
-- 💛 PLEN,, KITAJIMA
-- 💛 PLEN "" SHIPON
+- 💛 PLEN SHOUJI
+- 💛 PLEN KITAJIMA
+- 💛 PLEN SHIPON
 
 @ulend
 @snapend
@@ -37,6 +37,7 @@
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[west span-100]
+@snap[north-west span-50 text-center]
 ##  @color[black](背景)
 @ul[list-spaced-bullets text-20]
 - 今、コロナのせいで人同士の距離をとらなければならない
